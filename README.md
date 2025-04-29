@@ -1,0 +1,1 @@
+# my-supabase-prisma-app
